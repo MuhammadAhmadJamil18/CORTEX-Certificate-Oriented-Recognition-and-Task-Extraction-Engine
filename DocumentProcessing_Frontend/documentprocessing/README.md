@@ -7,7 +7,7 @@ npm install
 
 Start the development server:
 npm start
-Opens at http://localhost:3000
+Opens at http://localhost
 The page reloads automatically when you make changes
 Errors and warnings will show in the terminal/console
 
