@@ -40,8 +40,8 @@ Guidelines
 
 
 Testing
-•	Run tests with:
-•	pytest path_to_test_file
+Run tests with:
+pytest path_to_test_file
 Example:
 pytest tests\test_next_date_of_inspection.py
 
