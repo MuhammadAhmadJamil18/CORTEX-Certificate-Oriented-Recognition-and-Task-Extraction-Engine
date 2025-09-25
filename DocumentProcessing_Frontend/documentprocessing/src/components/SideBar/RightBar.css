@@ -1,0 +1,113 @@
+/* Sidebar.css */
+#sidebar {
+    position: fixed;
+    right: 0;
+    top: 8%;
+    width: 300px; /* Adjust width as needed */
+    height: 100%;
+    border-radius: 10px 0 0 10px;
+    background-color: #f8f9fa; /* Background color to match notification box */
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
+    color: #333;
+    border: 1px solid #ddd;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+    transition: transform 0.3s ease; /* Smooth slide effect */
+    transform: translateX(100%); /* Hidden initially */
+ }
+ 
+ #sidebar.open {
+    transform: translateX(0); /* Slide in */
+ }
+ 
+ #sidebar .sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    color: #007bff; /* Color similar to notification header */
+ }
+ 
+ #sidebar h4 {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: bold;
+ }
+ 
+ #sidebar button.close-btn {
+    background-color: transparent;
+    border: none;
+    color: #007bff;
+    font-size: 20px;
+    cursor: pointer;
+    float: left;
+ }
+ 
+ #sidebar{
+   flex: 1;
+   overflow-y: auto;
+   padding-right: 10px;
+   margin-top: 10px;
+}
+ .sidebar-content {
+    flex: 1;
+    overflow-y: auto;
+    margin-top: 10px;
+ }
+ 
+ #sidebar .form-group {
+
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    font-size: 12px;
+    color: #555;
+    padding: 8px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+ }
+ 
+ .search-table {
+   width: 100%;
+   border-collapse: collapse;
+   margin-top: 20px;
+}
+
+.search-table th, .search-table td {
+   padding: 10px;
+   text-align: left;
+   border-bottom: 1px solid #ddd;
+}
+
+.search-table th {
+   background-color: #f2f2f2;
+   font-weight: bold;
+}
+
+.search-table td {
+   color: #333;
+}
+
+.search-table tr:hover {
+   background-color: #f9f9f9;
+}
+
+.button {
+   background-color: #007bff; 
+   width: 100%; 
+   color: white; 
+   border: none; 
+   padding: 5px 10px; 
+   border-radius: 4px; 
+   cursor: pointer;
+}
+
+.button-container {
+   display: flex;
+   justify-content: flex-start; /* Align buttons to the left */
+   gap: 10px; /* Adds space between the buttons */
+   margin-top: 20px;
+}

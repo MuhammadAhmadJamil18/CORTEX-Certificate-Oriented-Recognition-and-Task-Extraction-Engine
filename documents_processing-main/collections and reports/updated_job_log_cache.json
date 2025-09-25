@@ -1,0 +1,1717 @@
+{
+  "unique_sales_persons": [
+    "ALI - ENGINEER",
+    "ARCHANA",
+    "HALEETHA",
+    "IJAZ AHMAD",
+    "ISHAQ",
+    "M ZAHID",
+    "MAMOON",
+    "MR.MEHAR EJAZ",
+    "MS.IQRA JAMIL",
+    "RAMEESHA",
+    "SALIK ENGINEER",
+    "SALMAA",
+    "SHAHBAZ HASSAN",
+    "SUDEESHA",
+    "YASAR",
+    "ZEESHAN JAVED"
+  ],
+  "jobs_by_sales_person": {
+    "MR.MEHAR EJAZ": [
+      "EAD-4190",
+      "EAD-4193",
+      "EAD-4194",
+      "EAD-4196",
+      "EAD-4198",
+      "EAD-4199",
+      "EAD-4200",
+      "EAD-4201",
+      "EAD-4202",
+      "EAD-4203",
+      "EAD-4204",
+      "EAD-4205",
+      "EAD-4206",
+      "EAD-4211",
+      "EAD-4214",
+      "EAD-4216",
+      "EAD-4217",
+      "EAD-4221",
+      "EAD-4222",
+      "LAD-60702",
+      "LAD-60705",
+      "LAD-60707",
+      "LAD-60709",
+      "LAD-60715",
+      "LAD-60748",
+      "LAD-60749",
+      "LAD-60750",
+      "LAD-60761",
+      "LAD-60802",
+      "LAD-60805",
+      "LAD-60809",
+      "LAD-60812",
+      "LAD-60814",
+      "LAD-60815",
+      "LAD-60817",
+      "LAD-60819",
+      "LAD-60822",
+      "LAD-60823",
+      "LAD-60824",
+      "LAD-60826",
+      "LAD-60829",
+      "LAD-60839",
+      "LAD-60844",
+      "LAD-60888",
+      "LAD-60889",
+      "LAD-60890",
+      "LAD-60894",
+      "LAD-60896",
+      "LAD-60900",
+      "LAD-60901",
+      "LAD-60903",
+      "LAD-60905",
+      "LAD-60906",
+      "LAD-60907",
+      "LAD-60908",
+      "LAD-60915",
+      "LAD-60925",
+      "LAD-60940",
+      "LAD-60941",
+      "LAD-60943",
+      "LAD-60947",
+      "LAD-60948",
+      "LAD-60980",
+      "LAD-60982",
+      "LAD-60983",
+      "LAD-61016",
+      "LAD-61020",
+      "LAD-61022",
+      "LAD-61025",
+      "LAD-61027",
+      "LAD-61029",
+      "LAD-61038"
+    ],
+    "MS.IQRA JAMIL": [
+      "EAD-4192",
+      "EAD-4195",
+      "EAD-4215",
+      "EAD-4220",
+      "EAD-4223",
+      "EAD-4226",
+      "EAD-4227",
+      "EAD-4228",
+      "EAD-4229",
+      "LAD-60703",
+      "LAD-60704",
+      "LAD-60706",
+      "LAD-60708",
+      "LAD-60710",
+      "LAD-60712",
+      "LAD-60714",
+      "LAD-60741",
+      "LAD-60742",
+      "LAD-60743",
+      "LAD-60745",
+      "LAD-60751",
+      "LAD-60752",
+      "LAD-60756",
+      "LAD-60757",
+      "LAD-60759",
+      "LAD-60762",
+      "LAD-60766",
+      "LAD-60770",
+      "LAD-60804",
+      "LAD-60806",
+      "LAD-60807",
+      "LAD-60808",
+      "LAD-60810",
+      "LAD-60811",
+      "LAD-60813",
+      "LAD-60816",
+      "LAD-60818",
+      "LAD-60820",
+      "LAD-60821",
+      "LAD-60825",
+      "LAD-60827",
+      "LAD-60828",
+      "LAD-60830",
+      "LAD-60832",
+      "LAD-60837",
+      "LAD-60840",
+      "LAD-60842",
+      "LAD-60843",
+      "LAD-60845",
+      "LAD-60846",
+      "LAD-60848",
+      "LAD-60850",
+      "LAD-60851",
+      "LAD-60862",
+      "LAD-60875",
+      "LAD-60876",
+      "LAD-60877",
+      "LAD-60880",
+      "LAD-60881",
+      "LAD-60883",
+      "LAD-60884",
+      "LAD-60885",
+      "LAD-60886",
+      "LAD-60887",
+      "LAD-60892",
+      "LAD-60893",
+      "LAD-60895",
+      "LAD-60897",
+      "LAD-60898",
+      "LAD-60899",
+      "LAD-60902",
+      "LAD-60904",
+      "LAD-60909",
+      "LAD-60910",
+      "LAD-60919",
+      "LAD-60920",
+      "LAD-60927",
+      "LAD-60928",
+      "LAD-60929",
+      "LAD-60930",
+      "LAD-60931",
+      "LAD-60932",
+      "LAD-60934",
+      "LAD-60935",
+      "LAD-60936",
+      "LAD-60942",
+      "LAD-60944",
+      "LAD-60946",
+      "LAD-60949",
+      "LAD-60950",
+      "LAD-60970",
+      "LAD-60974",
+      "LAD-60978",
+      "LAD-60979",
+      "LAD-60986",
+      "LAD-60987",
+      "LAD-60995",
+      "LAD-61011",
+      "LAD-61012",
+      "LAD-61013",
+      "LAD-61014",
+      "LAD-61017",
+      "LAD-61018",
+      "LAD-61021",
+      "LAD-61023",
+      "LAD-61024",
+      "LAD-61026",
+      "LAD-61028",
+      "LAD-61030",
+      "LAD-61031",
+      "LAD-61032",
+      "LAD-61034",
+      "LAD-61039",
+      "LAD-61047",
+      "LAD-61070",
+      "LAD-61074",
+      "LAD-61075",
+      "RAD-0159"
+    ],
+    "M ZAHID": [
+      "EAD-4194",
+      "EAD-4209",
+      "EAD-4218",
+      "EAD-4219",
+      "EAD-4224",
+      "EAD-4230",
+      "LAD-60711",
+      "LAD-60718",
+      "LAD-60719",
+      "LAD-60726",
+      "LAD-60727",
+      "LAD-60728",
+      "LAD-60729",
+      "LAD-60730",
+      "LAD-60731",
+      "LAD-60732",
+      "LAD-60733",
+      "LAD-60738",
+      "LAD-60767",
+      "LAD-60768",
+      "LAD-60773",
+      "LAD-60774",
+      "LAD-60776",
+      "LAD-60777",
+      "LAD-60778",
+      "LAD-60779",
+      "LAD-60788",
+      "LAD-60791",
+      "LAD-60794",
+      "LAD-60796",
+      "LAD-60798",
+      "LAD-60800",
+      "LAD-60855",
+      "LAD-60863",
+      "LAD-60868",
+      "LAD-60872",
+      "LAD-60921",
+      "LAD-60951",
+      "LAD-60952",
+      "LAD-60953",
+      "LAD-60958",
+      "LAD-60959",
+      "LAD-60960",
+      "LAD-60989",
+      "LAD-60990",
+      "LAD-60993",
+      "LAD-60997",
+      "LAD-60999",
+      "LAD-61000",
+      "LAD-61004",
+      "LAD-61005",
+      "LAD-61006",
+      "LAD-61010",
+      "LAD-61041",
+      "LAD-61042",
+      "LAD-61043",
+      "LAD-61053",
+      "LAD-61054",
+      "LAD-61055",
+      "LAD-61056",
+      "LAD-61057",
+      "LAD-61063",
+      "LAD-61064"
+    ],
+    "SALIK ENGINEER": [
+      "LAD-60713",
+      "LAD-60835",
+      "LAD-60841",
+      "LAD-60847",
+      "LAD-60972",
+      "LAD-60975",
+      "LAD-61040",
+      "LAD-61071"
+    ],
+    "SUDEESHA": [
+      "LAD-60716",
+      "LAD-60879",
+      "LAD-60971",
+      "LAD-60994",
+      "LAD-61049"
+    ],
+    "ALI - ENGINEER": [
+      "LAD-60717",
+      "LAD-60914",
+      "LAD-60957",
+      "LAD-60964",
+      "LAD-60965",
+      "LAD-61001",
+      "LAD-61002",
+      "LAD-61003"
+    ],
+    "RAMEESHA": [
+      "EAD-4197",
+      "EAD-4207",
+      "EAD-4212",
+      "LAD-60720",
+      "LAD-60721",
+      "LAD-60722",
+      "LAD-60723",
+      "LAD-60724",
+      "LAD-60725",
+      "LAD-60735",
+      "LAD-60736",
+      "LAD-60739",
+      "LAD-60740",
+      "LAD-60744",
+      "LAD-60747",
+      "LAD-60753",
+      "LAD-60755",
+      "LAD-60763",
+      "LAD-60764",
+      "LAD-60769",
+      "LAD-60772",
+      "LAD-60782",
+      "LAD-60785",
+      "LAD-60786",
+      "LAD-60787",
+      "LAD-60793",
+      "LAD-60795",
+      "LAD-60801",
+      "LAD-60831",
+      "LAD-60836",
+      "LAD-60838",
+      "LAD-60854",
+      "LAD-60860",
+      "LAD-60861",
+      "LAD-60865",
+      "LAD-60869",
+      "LAD-60870",
+      "LAD-60878",
+      "LAD-60882",
+      "LAD-60912",
+      "LAD-60913",
+      "LAD-60917",
+      "LAD-60926",
+      "LAD-60933",
+      "LAD-60937",
+      "LAD-60938",
+      "LAD-60955",
+      "LAD-60956",
+      "LAD-60962",
+      "LAD-60963",
+      "LAD-60966",
+      "LAD-60969",
+      "LAD-60973",
+      "LAD-60981",
+      "LAD-60992",
+      "LAD-61007",
+      "LAD-61035",
+      "LAD-61044",
+      "LAD-61045",
+      "LAD-61046",
+      "LAD-61048",
+      "LAD-61059",
+      "LAD-61060",
+      "LAD-61061",
+      "LAD-61072",
+      "LAD-61073"
+    ],
+    "ZEESHAN JAVED": [
+      "LAD-60734",
+      "LAD-60765",
+      "LAD-60771",
+      "LAD-60783",
+      "LAD-60784",
+      "LAD-60857",
+      "LAD-60859",
+      "LAD-60864",
+      "LAD-60961",
+      "LAD-60988",
+      "LAD-60991",
+      "LAD-61009"
+    ],
+    "HALEETHA": [
+      "LAD-60737",
+      "LAD-60746",
+      "LAD-60758",
+      "LAD-60760",
+      "LAD-60780",
+      "LAD-60781",
+      "LAD-60789",
+      "LAD-60797",
+      "LAD-60833",
+      "LAD-60834",
+      "LAD-60856",
+      "LAD-60858",
+      "LAD-60871",
+      "LAD-60873",
+      "LAD-60911",
+      "LAD-60924",
+      "LAD-60945",
+      "LAD-60954",
+      "LAD-60967",
+      "LAD-60968",
+      "LAD-60984",
+      "LAD-60985",
+      "LAD-60998",
+      "LAD-61036",
+      "LAD-61050",
+      "LAD-61051",
+      "LAD-61052",
+      "LAD-61062"
+    ],
+    "YASAR": [
+      "EAD-4191",
+      "LAD-60754",
+      "LAD-60849",
+      "LAD-60853",
+      "LAD-60916",
+      "LAD-60939",
+      "LAD-60976",
+      "LAD-61033",
+      "LAD-61037"
+    ],
+    "SALMAA": [
+      "LAD-60775",
+      "LAD-60790",
+      "LAD-60799",
+      "LAD-60803",
+      "LAD-60918",
+      "LAD-60922",
+      "LAD-60923",
+      "LAD-60977",
+      "LAD-60996",
+      "LAD-61008",
+      "LAD-61058"
+    ],
+    "ISHAQ": [
+      "EAD-4208",
+      "EAD-4210",
+      "EAD-4213",
+      "LAD-60792",
+      "LAD-60866"
+    ],
+    "ARCHANA": [
+      "LAD-60852"
+    ],
+    "SHAHBAZ HASSAN": [
+      "LAD-60867"
+    ],
+    "MAMOON": [
+      "EAD-4225",
+      "LAD-60874"
+    ],
+    "IJAZ AHMAD": [
+      "LAD-60891",
+      "LAD-61015",
+      "LAD-61019"
+    ]
+  },
+  "job_to_sales_person": {
+    "LAD-60702": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60703": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60704": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60705": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60706": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60707": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60708": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60709": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60710": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60711": [
+      "M ZAHID"
+    ],
+    "LAD-60712": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60713": [
+      "SALIK ENGINEER"
+    ],
+    "LAD-60714": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60715": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60716": [
+      "SUDEESHA"
+    ],
+    "LAD-60717": [
+      "ALI - ENGINEER"
+    ],
+    "LAD-60718": [
+      "M ZAHID"
+    ],
+    "LAD-60719": [
+      "M ZAHID"
+    ],
+    "LAD-60720": [
+      "RAMEESHA"
+    ],
+    "LAD-60721": [
+      "RAMEESHA"
+    ],
+    "LAD-60722": [
+      "RAMEESHA"
+    ],
+    "LAD-60723": [
+      "RAMEESHA"
+    ],
+    "LAD-60724": [
+      "RAMEESHA"
+    ],
+    "LAD-60725": [
+      "RAMEESHA"
+    ],
+    "LAD-60726": [
+      "M ZAHID"
+    ],
+    "LAD-60727": [
+      "M ZAHID"
+    ],
+    "LAD-60728": [
+      "M ZAHID"
+    ],
+    "LAD-60729": [
+      "M ZAHID"
+    ],
+    "LAD-60730": [
+      "M ZAHID"
+    ],
+    "LAD-60731": [
+      "M ZAHID"
+    ],
+    "LAD-60732": [
+      "M ZAHID"
+    ],
+    "LAD-60733": [
+      "M ZAHID"
+    ],
+    "LAD-60734": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60735": [
+      "RAMEESHA"
+    ],
+    "LAD-60736": [
+      "RAMEESHA"
+    ],
+    "LAD-60737": [
+      "HALEETHA"
+    ],
+    "LAD-60738": [
+      "M ZAHID"
+    ],
+    "LAD-60739": [
+      "RAMEESHA"
+    ],
+    "LAD-60740": [
+      "RAMEESHA"
+    ],
+    "LAD-60741": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60742": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60743": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60744": [
+      "RAMEESHA"
+    ],
+    "LAD-60745": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60746": [
+      "HALEETHA"
+    ],
+    "LAD-60747": [
+      "RAMEESHA"
+    ],
+    "LAD-60748": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60749": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60750": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60751": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60752": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60753": [
+      "RAMEESHA"
+    ],
+    "LAD-60754": [
+      "YASAR"
+    ],
+    "LAD-60755": [
+      "RAMEESHA"
+    ],
+    "LAD-60756": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60757": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60758": [
+      "HALEETHA"
+    ],
+    "LAD-60759": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60760": [
+      "HALEETHA"
+    ],
+    "LAD-60761": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60762": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60763": [
+      "RAMEESHA"
+    ],
+    "LAD-60764": [
+      "RAMEESHA"
+    ],
+    "LAD-60765": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60766": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60767": [
+      "M ZAHID"
+    ],
+    "LAD-60768": [
+      "M ZAHID"
+    ],
+    "LAD-60769": [
+      "RAMEESHA"
+    ],
+    "LAD-60770": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60771": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60772": [
+      "RAMEESHA"
+    ],
+    "LAD-60773": [
+      "M ZAHID"
+    ],
+    "LAD-60774": [
+      "M ZAHID"
+    ],
+    "LAD-60775": [
+      "SALMAA"
+    ],
+    "LAD-60776": [
+      "M ZAHID"
+    ],
+    "LAD-60777": [
+      "M ZAHID"
+    ],
+    "LAD-60778": [
+      "M ZAHID"
+    ],
+    "LAD-60779": [
+      "M ZAHID"
+    ],
+    "LAD-60780": [
+      "HALEETHA"
+    ],
+    "LAD-60781": [
+      "HALEETHA"
+    ],
+    "LAD-60782": [
+      "RAMEESHA"
+    ],
+    "LAD-60783": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60784": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60785": [
+      "RAMEESHA"
+    ],
+    "LAD-60786": [
+      "RAMEESHA"
+    ],
+    "LAD-60787": [
+      "RAMEESHA"
+    ],
+    "LAD-60788": [
+      "M ZAHID"
+    ],
+    "LAD-60789": [
+      "HALEETHA"
+    ],
+    "LAD-60790": [
+      "SALMAA"
+    ],
+    "LAD-60791": [
+      "M ZAHID"
+    ],
+    "LAD-60792": [
+      "ISHAQ"
+    ],
+    "LAD-60793": [
+      "RAMEESHA"
+    ],
+    "LAD-60794": [
+      "M ZAHID"
+    ],
+    "LAD-60795": [
+      "RAMEESHA"
+    ],
+    "LAD-60796": [
+      "M ZAHID"
+    ],
+    "LAD-60797": [
+      "HALEETHA"
+    ],
+    "LAD-60798": [
+      "M ZAHID"
+    ],
+    "LAD-60799": [
+      "SALMAA"
+    ],
+    "LAD-60800": [
+      "M ZAHID"
+    ],
+    "LAD-60801": [
+      "RAMEESHA"
+    ],
+    "LAD-60802": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60803": [
+      "SALMAA"
+    ],
+    "LAD-60804": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60805": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60806": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60807": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60808": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60809": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60810": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60811": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60812": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60813": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60814": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60815": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60816": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60817": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60818": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60819": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60820": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60821": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60822": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60823": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60824": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60825": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60826": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60827": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60828": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60829": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60830": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60831": [
+      "RAMEESHA"
+    ],
+    "LAD-60832": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60833": [
+      "HALEETHA"
+    ],
+    "LAD-60834": [
+      "HALEETHA"
+    ],
+    "LAD-60835": [
+      "SALIK ENGINEER"
+    ],
+    "LAD-60836": [
+      "RAMEESHA"
+    ],
+    "LAD-60837": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60838": [
+      "RAMEESHA"
+    ],
+    "LAD-60839": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60840": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60841": [
+      "SALIK ENGINEER"
+    ],
+    "LAD-60842": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60843": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60844": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60845": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60846": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60847": [
+      "SALIK ENGINEER"
+    ],
+    "LAD-60848": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60849": [
+      "YASAR"
+    ],
+    "LAD-60850": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60851": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60852": [
+      "ARCHANA"
+    ],
+    "LAD-60853": [
+      "YASAR"
+    ],
+    "LAD-60854": [
+      "RAMEESHA"
+    ],
+    "LAD-60855": [
+      "M ZAHID"
+    ],
+    "LAD-60856": [
+      "HALEETHA"
+    ],
+    "LAD-60857": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60858": [
+      "HALEETHA"
+    ],
+    "LAD-60859": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60860": [
+      "RAMEESHA"
+    ],
+    "LAD-60861": [
+      "RAMEESHA"
+    ],
+    "LAD-60862": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60863": [
+      "M ZAHID"
+    ],
+    "LAD-60864": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60865": [
+      "RAMEESHA"
+    ],
+    "LAD-60866": [
+      "ISHAQ"
+    ],
+    "LAD-60867": [
+      "SHAHBAZ HASSAN"
+    ],
+    "LAD-60868": [
+      "M ZAHID"
+    ],
+    "LAD-60869": [
+      "RAMEESHA"
+    ],
+    "LAD-60870": [
+      "RAMEESHA"
+    ],
+    "LAD-60871": [
+      "HALEETHA"
+    ],
+    "LAD-60872": [
+      "M ZAHID"
+    ],
+    "LAD-60873": [
+      "HALEETHA"
+    ],
+    "LAD-60874": [
+      "MAMOON"
+    ],
+    "LAD-60875": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60876": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60877": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60878": [
+      "RAMEESHA"
+    ],
+    "LAD-60879": [
+      "SUDEESHA"
+    ],
+    "LAD-60880": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60881": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60882": [
+      "RAMEESHA"
+    ],
+    "LAD-60883": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60884": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60885": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60886": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60887": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60888": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60889": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60890": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60891": [
+      "IJAZ AHMAD"
+    ],
+    "LAD-60892": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60893": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60894": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60895": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60896": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60897": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60898": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60899": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60900": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60901": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60902": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60903": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60904": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60905": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60906": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60907": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60908": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60909": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60910": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60911": [
+      "HALEETHA"
+    ],
+    "LAD-60912": [
+      "RAMEESHA"
+    ],
+    "LAD-60913": [
+      "RAMEESHA"
+    ],
+    "LAD-60914": [
+      "ALI - ENGINEER"
+    ],
+    "LAD-60915": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60916": [
+      "YASAR"
+    ],
+    "LAD-60917": [
+      "RAMEESHA"
+    ],
+    "LAD-60918": [
+      "SALMAA"
+    ],
+    "LAD-60919": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60920": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60921": [
+      "M ZAHID"
+    ],
+    "LAD-60922": [
+      "SALMAA"
+    ],
+    "LAD-60923": [
+      "SALMAA"
+    ],
+    "LAD-60924": [
+      "HALEETHA"
+    ],
+    "LAD-60925": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60926": [
+      "RAMEESHA"
+    ],
+    "LAD-60927": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60928": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60929": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60930": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60931": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60932": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60933": [
+      "RAMEESHA"
+    ],
+    "LAD-60934": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60935": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60936": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60937": [
+      "RAMEESHA"
+    ],
+    "LAD-60938": [
+      "RAMEESHA"
+    ],
+    "LAD-60939": [
+      "YASAR"
+    ],
+    "LAD-60940": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60941": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60942": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60943": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60944": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60945": [
+      "HALEETHA"
+    ],
+    "LAD-60946": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60947": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60948": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60949": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60950": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60951": [
+      "M ZAHID"
+    ],
+    "LAD-60952": [
+      "M ZAHID"
+    ],
+    "LAD-60953": [
+      "M ZAHID"
+    ],
+    "LAD-60954": [
+      "HALEETHA"
+    ],
+    "LAD-60955": [
+      "RAMEESHA"
+    ],
+    "LAD-60956": [
+      "RAMEESHA"
+    ],
+    "LAD-60957": [
+      "ALI - ENGINEER"
+    ],
+    "LAD-60958": [
+      "M ZAHID"
+    ],
+    "LAD-60959": [
+      "M ZAHID"
+    ],
+    "LAD-60960": [
+      "M ZAHID"
+    ],
+    "LAD-60961": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60962": [
+      "RAMEESHA"
+    ],
+    "LAD-60963": [
+      "RAMEESHA"
+    ],
+    "LAD-60964": [
+      "ALI - ENGINEER"
+    ],
+    "LAD-60965": [
+      "ALI - ENGINEER"
+    ],
+    "LAD-60966": [
+      "RAMEESHA"
+    ],
+    "LAD-60967": [
+      "HALEETHA"
+    ],
+    "LAD-60968": [
+      "HALEETHA"
+    ],
+    "LAD-60969": [
+      "RAMEESHA"
+    ],
+    "LAD-60970": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60971": [
+      "SUDEESHA"
+    ],
+    "LAD-60972": [
+      "SALIK ENGINEER"
+    ],
+    "LAD-60973": [
+      "RAMEESHA"
+    ],
+    "LAD-60974": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60975": [
+      "SALIK ENGINEER"
+    ],
+    "LAD-60976": [
+      "YASAR"
+    ],
+    "LAD-60977": [
+      "SALMAA"
+    ],
+    "LAD-60978": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60979": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60980": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60981": [
+      "RAMEESHA"
+    ],
+    "LAD-60982": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60983": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-60984": [
+      "HALEETHA"
+    ],
+    "LAD-60985": [
+      "HALEETHA"
+    ],
+    "LAD-60986": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60987": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60988": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60989": [
+      "M ZAHID"
+    ],
+    "LAD-60990": [
+      "M ZAHID"
+    ],
+    "LAD-60991": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-60992": [
+      "RAMEESHA"
+    ],
+    "LAD-60993": [
+      "M ZAHID"
+    ],
+    "LAD-60994": [
+      "SUDEESHA"
+    ],
+    "LAD-60995": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-60996": [
+      "SALMAA"
+    ],
+    "LAD-60997": [
+      "M ZAHID"
+    ],
+    "LAD-60998": [
+      "HALEETHA"
+    ],
+    "LAD-60999": [
+      "M ZAHID"
+    ],
+    "LAD-61000": [
+      "M ZAHID"
+    ],
+    "LAD-61001": [
+      "ALI - ENGINEER"
+    ],
+    "LAD-61002": [
+      "ALI - ENGINEER"
+    ],
+    "LAD-61003": [
+      "ALI - ENGINEER"
+    ],
+    "LAD-61004": [
+      "M ZAHID"
+    ],
+    "LAD-61005": [
+      "M ZAHID"
+    ],
+    "LAD-61006": [
+      "M ZAHID"
+    ],
+    "LAD-61007": [
+      "RAMEESHA"
+    ],
+    "LAD-61008": [
+      "SALMAA"
+    ],
+    "LAD-61009": [
+      "ZEESHAN JAVED"
+    ],
+    "LAD-61010": [
+      "M ZAHID"
+    ],
+    "LAD-61011": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61012": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61013": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61014": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61015": [
+      "IJAZ AHMAD"
+    ],
+    "LAD-61016": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-61017": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61018": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61019": [
+      "IJAZ AHMAD"
+    ],
+    "LAD-61020": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-61021": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61022": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-61023": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61024": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61025": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-61026": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61027": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-61028": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61029": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-61030": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61031": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61032": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61033": [
+      "YASAR"
+    ],
+    "LAD-61034": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61035": [
+      "RAMEESHA"
+    ],
+    "LAD-61036": [
+      "HALEETHA"
+    ],
+    "LAD-61037": [
+      "YASAR"
+    ],
+    "LAD-61038": [
+      "MR.MEHAR EJAZ"
+    ],
+    "LAD-61039": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61040": [
+      "SALIK ENGINEER"
+    ],
+    "LAD-61041": [
+      "M ZAHID"
+    ],
+    "LAD-61042": [
+      "M ZAHID"
+    ],
+    "LAD-61043": [
+      "M ZAHID"
+    ],
+    "LAD-61044": [
+      "RAMEESHA"
+    ],
+    "LAD-61045": [
+      "RAMEESHA"
+    ],
+    "LAD-61046": [
+      "RAMEESHA"
+    ],
+    "LAD-61047": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61048": [
+      "RAMEESHA"
+    ],
+    "LAD-61049": [
+      "SUDEESHA"
+    ],
+    "LAD-61050": [
+      "HALEETHA"
+    ],
+    "LAD-61051": [
+      "HALEETHA"
+    ],
+    "LAD-61052": [
+      "HALEETHA"
+    ],
+    "LAD-61053": [
+      "M ZAHID"
+    ],
+    "LAD-61054": [
+      "M ZAHID"
+    ],
+    "LAD-61055": [
+      "M ZAHID"
+    ],
+    "LAD-61056": [
+      "M ZAHID"
+    ],
+    "LAD-61057": [
+      "M ZAHID"
+    ],
+    "LAD-61058": [
+      "SALMAA"
+    ],
+    "LAD-61059": [
+      "RAMEESHA"
+    ],
+    "LAD-61060": [
+      "RAMEESHA"
+    ],
+    "LAD-61061": [
+      "RAMEESHA"
+    ],
+    "LAD-61062": [
+      "HALEETHA"
+    ],
+    "LAD-61063": [
+      "M ZAHID"
+    ],
+    "LAD-61064": [
+      "M ZAHID"
+    ],
+    "LAD-61070": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61071": [
+      "SALIK ENGINEER"
+    ],
+    "LAD-61072": [
+      "RAMEESHA"
+    ],
+    "LAD-61073": [
+      "RAMEESHA"
+    ],
+    "LAD-61074": [
+      "MS.IQRA JAMIL"
+    ],
+    "LAD-61075": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4190": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4191": [
+      "YASAR"
+    ],
+    "EAD-4192": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4193": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4194": [
+      "M ZAHID",
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4195": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4196": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4197": [
+      "RAMEESHA"
+    ],
+    "EAD-4198": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4199": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4200": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4201": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4202": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4203": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4204": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4205": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4206": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4207": [
+      "RAMEESHA"
+    ],
+    "EAD-4208": [
+      "ISHAQ"
+    ],
+    "EAD-4209": [
+      "M ZAHID"
+    ],
+    "EAD-4210": [
+      "ISHAQ"
+    ],
+    "EAD-4211": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4212": [
+      "RAMEESHA"
+    ],
+    "EAD-4213": [
+      "ISHAQ"
+    ],
+    "EAD-4214": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4215": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4216": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4217": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4218": [
+      "M ZAHID"
+    ],
+    "EAD-4219": [
+      "M ZAHID"
+    ],
+    "EAD-4220": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4221": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4222": [
+      "MR.MEHAR EJAZ"
+    ],
+    "EAD-4223": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4224": [
+      "M ZAHID"
+    ],
+    "EAD-4225": [
+      "MAMOON"
+    ],
+    "EAD-4226": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4227": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4228": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4229": [
+      "MS.IQRA JAMIL"
+    ],
+    "EAD-4230": [
+      "M ZAHID"
+    ],
+    "RAD-0159": [
+      "MS.IQRA JAMIL"
+    ]
+  },
+  "summary": {
+    "total_jobs_processed": 411,
+    "total_salespersons": 16,
+    "skipped_entries": 631,
+    "sheets_processed": [
+      "LIFTING EQUIPMENT ",
+      "ENAS",
+      "REJECTION "
+    ]
+  },
+  "metadata": {
+    "processed_at": "2025-08-19T13:02:36.573468",
+    "source_file": "C:\\Users\\HP\\Videos\\documents_processing-main\\JOB_LOG\\UPDATED JOB LOG (2).xlsx",
+    "source_file_modified": 1755583902.2420936
+  }
+}

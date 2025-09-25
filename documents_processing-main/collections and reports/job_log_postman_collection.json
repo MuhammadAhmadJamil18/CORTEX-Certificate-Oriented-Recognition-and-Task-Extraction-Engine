@@ -1,0 +1,94 @@
+{
+	"info": {
+		"_postman_id": "random-uuid",
+		"name": "Job Log Analysis API",
+		"description": "Collection of endpoints for analyzing the Job Log Sheet",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1. Process Job Log",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/process_job_log",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["process_job_log"]
+				},
+				"description": "Process the Excel file and cache results. Run this first!"
+			}
+		},
+		{
+			"name": "2. Get Sales Person by Job Number",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"job_number\": \"YOUR_JOB_NUMBER\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5000/salesperson_by_job",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["salesperson_by_job"]
+				},
+				"description": "Get the sales person for a specific job number"
+			}
+		},
+		{
+			"name": "3. Get Unique Sales Persons",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/unique_salespersons",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["unique_salespersons"]
+				},
+				"description": "Get a list of all unique sales persons"
+			}
+		},
+		{
+			"name": "4. Get Jobs by Sales Person",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/jobs_by_salesperson",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["jobs_by_salesperson"]
+				},
+				"description": "Get all job numbers mapped to each sales person"
+			}
+		},
+		{
+			"name": "5. Get Job Log Summary",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/job_log_summary",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["job_log_summary"]
+				},
+				"description": "Get summary statistics of the job log data"
+			}
+		}
+	]
+} 

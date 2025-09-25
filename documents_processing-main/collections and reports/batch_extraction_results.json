@@ -1,0 +1,4370 @@
+[
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\CALIBRATION CERFICATES 2024\\C20240730383 - PRESSURE GAUGE - ROYAL GAS ABU DHABI.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\CALIBRATION CERFICATES 2024\\C20240830606 - PRESSURE GAUGE - ROYAL GAS ABU DHABI.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240779124 - MOBILE CRANE OPERATOR - SADAT GENERAL TRANSPORT.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "16.07.2024",
+        "confidence": 75,
+        "location": 213,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "16.07.2024",
+        "confidence": 75,
+        "location": 213,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240779124",
+        "confidence": 90,
+        "location": 309,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38565",
+        "confidence": 90,
+        "location": 330,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240370520 - SCAFFOLDING INSPECTOR - ROYAL CLASSIC CONT..docx",
+    "next_date_of_inspection": [
+      {
+        "text": "05.03.2024",
+        "confidence": 75,
+        "location": 253,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "05.03.2024",
+        "confidence": 75,
+        "location": 253,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240370520",
+        "confidence": 90,
+        "location": 350,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-33923",
+        "confidence": 90,
+        "location": 371,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412401293 - CARABINER - NAJOOM AL RAHA.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240166678 - PNEUMATIC TYPE ROLLER  OPERATOR - NABLUS ROAD CONTRACTING LLC.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "11.01.2024",
+        "confidence": 75,
+        "location": 219,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "11.01.2024",
+        "confidence": 75,
+        "location": 219,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240166678",
+        "confidence": 90,
+        "location": 319,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-31744",
+        "confidence": 90,
+        "location": 340,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412402039 - WIRE ROPE SLING - DUTCH FOUNDATION P-1968.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202403386372 - HYDRAULIC JACK - QUALITY INTERNATIONAL CO. LTD.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202411399859 - LOADING PLATFORM - FIBREX CREEK HARBOUR.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202401377122 - WELDING MACHINE - ROYAL GAS DUBAI.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412401803 - SKID STEER LOADER - SARZAK TECHNICAL SERVCES.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241293935 - SCAFFOLDING ERECTION AND DISMANTLING - INTERGRANDE BKC LABOUR SUPPLY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "06.12.2024",
+        "confidence": 75,
+        "location": 284,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "06.12.2024",
+        "confidence": 75,
+        "location": 284,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241293935",
+        "confidence": 90,
+        "location": 399,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-46048",
+        "confidence": 90,
+        "location": 373,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202402384147 - PAT TEST FOR GRINDER - INVENTURE METAL PRODUCT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240575227 - SCAFFOLDING INSPECTOR - TRUE LIGHT SCAFFOLDING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "22.05.2024",
+        "confidence": 75,
+        "location": 214,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "22.05.2024",
+        "confidence": 75,
+        "location": 214,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240575227",
+        "confidence": 90,
+        "location": 309,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-36388",
+        "confidence": 90,
+        "location": 330,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241294149 - RIGGER - TROJAN CITY WALK.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "30.11.2024",
+        "confidence": 75,
+        "location": 215,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "30.11.2024",
+        "confidence": 75,
+        "location": 215,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241294149",
+        "confidence": 90,
+        "location": 330,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-46158",
+        "confidence": 90,
+        "location": 304,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240268533 - TOWER CRANE OPERATOR  - CRC.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "07.02.2024",
+        "confidence": 75,
+        "location": 218,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "07.02.2024",
+        "confidence": 75,
+        "location": 218,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240268533",
+        "confidence": 90,
+        "location": 318,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-32828",
+        "confidence": 90,
+        "location": 339,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240573915 - CONFINED SPACE - VOLTAS.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "03.05.2024",
+        "confidence": 75,
+        "location": 215,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "03.05.2024",
+        "confidence": 75,
+        "location": 215,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240573915",
+        "confidence": 90,
+        "location": 310,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35751",
+        "confidence": 90,
+        "location": 331,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240372491 - LIFTING SUPERVISOR - QUALITY INTERNATIONAL CO. LTD.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "04.04.2024",
+        "confidence": 75,
+        "location": 540,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "04.04.2024",
+        "confidence": 75,
+        "location": 540,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240372491",
+        "confidence": 90,
+        "location": 637,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34823",
+        "confidence": 90,
+        "location": 658,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240986262 - LOCK OUT – TAG OUT - ALVEST EQUIPMENT SERVICES AES.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "27.09.2024",
+        "confidence": 75,
+        "location": 226,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "27.09.2024",
+        "confidence": 75,
+        "location": 226,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240986262",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-42232",
+        "confidence": 90,
+        "location": 349,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240983763 - FIRE FIGHTER - CAPITAL PRECAST.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "07.09.2024",
+        "confidence": 75,
+        "location": 213,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "07.09.2024",
+        "confidence": 75,
+        "location": 213,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240983763",
+        "confidence": 90,
+        "location": 315,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-41095",
+        "confidence": 90,
+        "location": 336,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412401272 - SKID STEER LOADER - CRC ABISHEK SITE.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240882015 - WELDER QUALIFICATION - HABSHAN ELECTROMECHANICAL CONT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240372233 - CONFINED SPACE - NATIONAL PROJECTS NPC BANIYAS NORTH PHASE 02.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "30.03.2024",
+        "confidence": 75,
+        "location": 229,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "30.03.2024",
+        "confidence": 75,
+        "location": 229,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240372233",
+        "confidence": 90,
+        "location": 327,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34676",
+        "confidence": 90,
+        "location": 348,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240881606 - CONFINED SPACE - VOLTAS LTD..docx",
+    "next_date_of_inspection": [
+      {
+        "text": "15.08.2024",
+        "confidence": 75,
+        "location": 211,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "15.08.2024",
+        "confidence": 75,
+        "location": 211,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240881606",
+        "confidence": 90,
+        "location": 309,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39962",
+        "confidence": 90,
+        "location": 330,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240473206 - FLAGMAN - ASAD AL ABYADH.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "29.04.2024",
+        "confidence": 75,
+        "location": 202,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "29.04.2024",
+        "confidence": 75,
+        "location": 202,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240473206",
+        "confidence": 90,
+        "location": 299,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35415",
+        "confidence": 90,
+        "location": 320,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412401506 - HYDRAULIC PUMP - DUTCH FOUNDATION KEZAD.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240880712 - BOOM LOADER OEPRATOR - PAK SHAHEEN.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "06.08.2024",
+        "confidence": 75,
+        "location": 213,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "06.08.2024",
+        "confidence": 75,
+        "location": 213,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240880712",
+        "confidence": 90,
+        "location": 311,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39536",
+        "confidence": 90,
+        "location": 332,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241296610 - SCAFFOLDING ERECTION AND DISMANTLING - INTERGRANDE BKC LABOUR SUPPLY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "28.12.2024",
+        "confidence": 75,
+        "location": 269,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "28.12.2024",
+        "confidence": 75,
+        "location": 269,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241296610",
+        "confidence": 90,
+        "location": 384,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-47310",
+        "confidence": 90,
+        "location": 358,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202408394313 - LOADING PLATFORM - ENGINEERING CONTRACTING COMPANY ECC CREEK HARBOUR.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202401384040 - EXCAVATOR - SKILL SAFE INSPECTION.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202402384786 - CHAIN SLING - NATIONAL PROJECTS NPC I053.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241293516 - HOT WORK - NUBSI GENERAL CONTRACTING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "30.11.2024",
+        "confidence": 75,
+        "location": 214,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "30.11.2024",
+        "confidence": 75,
+        "location": 214,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241293516",
+        "confidence": 90,
+        "location": 329,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-45823",
+        "confidence": 90,
+        "location": 303,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240472797 - BASIC FIRST AID - GENFOCUS ELECTROMECH..docx",
+    "next_date_of_inspection": [
+      {
+        "text": "18.04.2024",
+        "confidence": 75,
+        "location": 264,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "18.04.2024",
+        "confidence": 75,
+        "location": 264,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240472797",
+        "confidence": 90,
+        "location": 359,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35081",
+        "confidence": 90,
+        "location": 380,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240779672 - SCAFFOLDING ERECTION AND DISMANTLING - NATIONAL PROJECTS NPC I065.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "22.07.2024",
+        "confidence": 75,
+        "location": 265,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "22.07.2024",
+        "confidence": 75,
+        "location": 265,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240779672",
+        "confidence": 90,
+        "location": 361,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38851",
+        "confidence": 90,
+        "location": 382,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240575249 - FLAGMAN - NATIONAL PILING COMPANY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "16.05.2024",
+        "confidence": 75,
+        "location": 199,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "16.05.2024",
+        "confidence": 75,
+        "location": 199,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240575249",
+        "confidence": 90,
+        "location": 294,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-36407",
+        "confidence": 90,
+        "location": 315,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412400671 - CRAWLER CRANE - WINCH LOGISTICS.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241191290 - CRADLE OPERATOR - INVENTURE METAL JBR.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "02.11.2024",
+        "confidence": 75,
+        "location": 217,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "02.11.2024",
+        "confidence": 75,
+        "location": 217,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241191290",
+        "confidence": 90,
+        "location": 317,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-44610",
+        "confidence": 90,
+        "location": 338,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202402377530 - BACKHOE LOADER - CHAKWAL GENERAL TRANSPORT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202406389887 - BOW SHACKLE - QUALITY INTERNATIONAL CO. LTD.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202404386874 - COMPLIANCE CERTIFICATE FOR PROP JACK - ABU DHABI INTERNATIONAL PRECAST.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "30.09.2024",
+        "confidence": 75,
+        "location": 1864,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "April 01, 2024",
+        "confidence": 95,
+        "location": 48,
+        "version": "03"
+      }
+    ],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202411399833 - CHAIN HOIST - SAHARA ENGINEERING.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241089271 - FIRE WARDEN - NATIONAL PROJECTS NPC I046.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "23.10.2024",
+        "confidence": 75,
+        "location": 232,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "23.10.2024",
+        "confidence": 75,
+        "location": 232,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241089271",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-43650",
+        "confidence": 90,
+        "location": 349,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240778821 - RIGGER - ISCON.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "10.07.2024",
+        "confidence": 75,
+        "location": 195,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "10.07.2024",
+        "confidence": 75,
+        "location": 195,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240778821",
+        "confidence": 90,
+        "location": 291,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38345",
+        "confidence": 90,
+        "location": 312,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241086938 - WELDER QUALIFICATION - ROYAL GAS DUBAI.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240778194 - SCAFFOLDING INSPECTOR - NASEEM AL SAHIL.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "01.07.2024",
+        "confidence": 75,
+        "location": 225,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "01.07.2024",
+        "confidence": 75,
+        "location": 225,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240778194",
+        "confidence": 90,
+        "location": 321,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-37951",
+        "confidence": 90,
+        "location": 342,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202409379340 - SAFETY HARNESS - ABU DHABI PRECAST ICAD I.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241294686 - POWER TOOLS OPERATOR - TROJAN VELDROME.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "07.12.2024",
+        "confidence": 75,
+        "location": 225,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "07.12.2024",
+        "confidence": 75,
+        "location": 225,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241294686",
+        "confidence": 90,
+        "location": 340,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-46436",
+        "confidence": 90,
+        "location": 314,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202410379787 - SAFETY HARNESS - PERMA STEEL.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241087457 - FIRE WATCHER - ROYAL GAS DUBAI.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "08.10.2024",
+        "confidence": 75,
+        "location": 209,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "08.10.2024",
+        "confidence": 75,
+        "location": 209,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241087457",
+        "confidence": 90,
+        "location": 309,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-42756",
+        "confidence": 90,
+        "location": 330,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202404387069 - LIFTING WIRE LOOP - ABU DHABI PRECAST.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202410396548 - CRADLE - IMADH YOUSAF.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202409395585 - FALSE WORK - CHINA NEUCLEAR IND..docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240779320 - FIRE WARDEN - TROJAN BANIYAS NORTH PHASE 2.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "17.07.2024",
+        "confidence": 75,
+        "location": 238,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "17.07.2024",
+        "confidence": 75,
+        "location": 238,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240779320",
+        "confidence": 90,
+        "location": 334,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38646",
+        "confidence": 90,
+        "location": 355,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240371644 - FIRST AID - NATIONAL PROJECTS NPC I055.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "23.03.2024",
+        "confidence": 75,
+        "location": 234,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "23.03.2024",
+        "confidence": 75,
+        "location": 234,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240371644",
+        "confidence": 90,
+        "location": 331,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34407",
+        "confidence": 90,
+        "location": 352,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241089963 - SCAFFOLDING ERECTION AND DISMANTLING - INTERGRANDE BKC LABOUR.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "29.10.2024",
+        "confidence": 75,
+        "location": 278,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "29.10.2024",
+        "confidence": 75,
+        "location": 278,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241089963",
+        "confidence": 90,
+        "location": 374,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-44026",
+        "confidence": 90,
+        "location": 395,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202408379123 - WELDING MACHINE - QUALITY INTERNATIONAL CO. LTD.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202404377972 - SCAFFOLDING - TROJAN SHAMKHA SCHOOL 1.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240574403 - WELDER - MITCO ELECTROMECH.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "06.05.2024",
+        "confidence": 75,
+        "location": 205,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "06.05.2024",
+        "confidence": 75,
+        "location": 205,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240574403",
+        "confidence": 90,
+        "location": 300,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35983",
+        "confidence": 90,
+        "location": 321,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240372376 - CRADLE BMU OPERATOR - MALT TECHNICS.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "02.03.2024",
+        "confidence": 75,
+        "location": 216,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "02.03.2024",
+        "confidence": 75,
+        "location": 216,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240372376",
+        "confidence": 90,
+        "location": 313,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34757",
+        "confidence": 90,
+        "location": 334,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412402095 - CRADLE - IMADH YOUSAF.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240371522 - RIGGER - SAQIB MAHMOOD.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "22.03.2024",
+        "confidence": 75,
+        "location": 198,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "22.03.2024",
+        "confidence": 75,
+        "location": 198,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240371522",
+        "confidence": 90,
+        "location": 295,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34386",
+        "confidence": 90,
+        "location": 316,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240573400 - RIGGER - GRANKRAFT CONSTRUCTION.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "01.05.2024",
+        "confidence": 75,
+        "location": 205,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "01.05.2024",
+        "confidence": 75,
+        "location": 205,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240573400",
+        "confidence": 90,
+        "location": 300,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35528",
+        "confidence": 90,
+        "location": 321,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202411400243 - FALSE WORK - SHAANXI CONST. ENGINEERING.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240881782 - FIRE WARDEN - TROJAN CITY WALK.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "17.08.2024",
+        "confidence": 75,
+        "location": 225,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "17.08.2024",
+        "confidence": 75,
+        "location": 225,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240881782",
+        "confidence": 90,
+        "location": 323,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-40047",
+        "confidence": 90,
+        "location": 344,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240881575 - RIGGER - QUALITY INTERNATIONAL CO. LTD HAMRIYA.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "15.08.2024",
+        "confidence": 75,
+        "location": 533,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "15.08.2024",
+        "confidence": 75,
+        "location": 533,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240881575",
+        "confidence": 90,
+        "location": 631,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39958",
+        "confidence": 90,
+        "location": 652,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240370907 - CONFINED SPACE - SERVUE FACILITIES DUBAI.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "11.03.2024",
+        "confidence": 75,
+        "location": 242,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "11.03.2024",
+        "confidence": 75,
+        "location": 242,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240370907",
+        "confidence": 90,
+        "location": 339,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34134",
+        "confidence": 90,
+        "location": 360,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241192140 - ROBOTIC MACHINE OPERATOR - ABU DHABI PRECAST.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "16.11.2024",
+        "confidence": 75,
+        "location": 248,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "16.11.2024",
+        "confidence": 75,
+        "location": 248,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241192140",
+        "confidence": 90,
+        "location": 363,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-45065",
+        "confidence": 90,
+        "location": 337,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202411400494 - STEEL BENDING MACHINE - HI TECH TG 2134.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\CALIBRATION CERFICATES 2024\\C20241030910 - PRESSURE GAUGE - ROYAL GAS ABU DHABI.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240779445 - ELECTRICIAN - HI TECH MAFRAQ.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "16.07.2024",
+        "confidence": 75,
+        "location": 223,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "16.07.2024",
+        "confidence": 75,
+        "location": 223,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240779445",
+        "confidence": 90,
+        "location": 319,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38723",
+        "confidence": 90,
+        "location": 340,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240372454 - RIGGER - QUALITY INTERNATIONAL CO. LTD.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "02.04.2024",
+        "confidence": 75,
+        "location": 525,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "02.04.2024",
+        "confidence": 75,
+        "location": 525,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240372454",
+        "confidence": 90,
+        "location": 622,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34823",
+        "confidence": 90,
+        "location": 643,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202405389227 - EXCAVATOR - TROJAN GENERAL CONT..docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202402377531 - WHEEL LOADER - AROOS AL BAHAR.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202405378388 - SAFETY HARNESS - QUICK SERVICE ALUMINUM AND.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240778965 - SCAFFOLDING ERECTION AND DISMANTLING - DARWAISH ENGINEERING MASAAR SITE.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "11.07.2024",
+        "confidence": 75,
+        "location": 269,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "11.07.2024",
+        "confidence": 75,
+        "location": 269,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240778965",
+        "confidence": 90,
+        "location": 365,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38430",
+        "confidence": 90,
+        "location": 386,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241296197 -KERBSTONE CUTTING MACHINE OPERATOR-NATIONAL PROJECTS NPC 1045 (CASH).docx",
+    "next_date_of_inspection": [
+      {
+        "text": "26.12.2024",
+        "confidence": 75,
+        "location": 238,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "26.12.2024",
+        "confidence": 75,
+        "location": 238,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241296197",
+        "confidence": 90,
+        "location": 354,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-47160",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240372022 - RIGGER - HITECH ICAD FACTORY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "25.03.2024",
+        "confidence": 75,
+        "location": 543,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "25.03.2024",
+        "confidence": 75,
+        "location": 543,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240372021",
+        "confidence": 90,
+        "location": 640,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34625",
+        "confidence": 90,
+        "location": 661,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202410397965 - CRADLE - ENGINEERING CONTRACTING COMPANY ECC BUSINESS BAY.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202405388821 - BMU - DANWAY MITHUN WASL.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202407390874 - CHAIN BLOCK - BRIO METAL IND..docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202406390385 - FALSE WORK - CHINA NEUCLEAR IND..docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241190537 - BAR BENDING MACHINE OPERATOR - HI TECH I CAD.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "30.10.2024",
+        "confidence": 75,
+        "location": 258,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "30.10.2024",
+        "confidence": 75,
+        "location": 258,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241190537",
+        "confidence": 90,
+        "location": 357,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-44296",
+        "confidence": 90,
+        "location": 378,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240268761 - RIGGER - TROJAN PRIVATE VILLA.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "10.02.2024",
+        "confidence": 75,
+        "location": 245,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "10.02.2024",
+        "confidence": 75,
+        "location": 245,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240268761",
+        "confidence": 90,
+        "location": 345,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-32946",
+        "confidence": 90,
+        "location": 366,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240269489 - GROUTING PUMP OPERATOR - UNIVERSAL FOUNDATION.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "19.02.2024",
+        "confidence": 75,
+        "location": 220,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "19.02.2024",
+        "confidence": 75,
+        "location": 220,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240269489",
+        "confidence": 90,
+        "location": 320,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-33276",
+        "confidence": 90,
+        "location": 341,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202402384730 - BMU - MALT TECHNICS.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241296589 - SCAFFOLDER -TROJAN AL SAAD.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "18.12.2024",
+        "confidence": 75,
+        "location": 223,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "18.12.2024",
+        "confidence": 75,
+        "location": 223,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T2024129589",
+        "confidence": 90,
+        "location": 338,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-47302",
+        "confidence": 90,
+        "location": 312,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240983214 - POWER TOOLS OPERATOR - HI TECH 1340 SADIYAT ISLAND.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "24.08.2024",
+        "confidence": 75,
+        "location": 250,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "24.08.2024",
+        "confidence": 75,
+        "location": 250,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240983214",
+        "confidence": 90,
+        "location": 348,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-40826",
+        "confidence": 90,
+        "location": 369,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202408394527 - CHAIN SLING - CICON EPOXY AND STEEL CUTTING PLANT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240575162 - CONFINED SPACE ENTRY- NATIONAL PROJECTS NPC  BANIYAS PHASE 2.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "21.05.2024",
+        "confidence": 75,
+        "location": 238,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "21.05.2024",
+        "confidence": 75,
+        "location": 238,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240575162",
+        "confidence": 90,
+        "location": 333,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-36345",
+        "confidence": 90,
+        "location": 354,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202407391091 - FALL ARRESTER - ABU DHABI PRECAST.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240780424 - FLAGMAN - INTERGRANDE BKC LABOUR SUPPLY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "31.07.2024",
+        "confidence": 75,
+        "location": 252,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "31.07.2024",
+        "confidence": 75,
+        "location": 252,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240780424",
+        "confidence": 90,
+        "location": 348,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39276",
+        "confidence": 90,
+        "location": 369,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241293615 - SCAFFOLDING ERECTION AND DISMANTLING - STAR SHELL SCAFFOLDING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "30.11.2024",
+        "confidence": 75,
+        "location": 225,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "30.11.2024",
+        "confidence": 75,
+        "location": 225,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241293615",
+        "confidence": 90,
+        "location": 341,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-45861",
+        "confidence": 90,
+        "location": 315,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202409395731 - WEBBING SLING - GENFOCUS ELECTROMECH..docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202405378112 - WELDING MACHINE - ABU DHABI INTERNATIONAL PRECAST.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240574999 - CONFINED SPACE - SANCO ENVIRONMENTAL.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "20.05.2024",
+        "confidence": 75,
+        "location": 263,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "20.05.2024",
+        "confidence": 75,
+        "location": 263,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240574999",
+        "confidence": 90,
+        "location": 356,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-36270",
+        "confidence": 90,
+        "location": 377,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240881201 - POWER TOOLS OPERATOR - TROJAN SHAMKHA SCHOOL 1.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "05.08.2024",
+        "confidence": 75,
+        "location": 252,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "05.08.2024",
+        "confidence": 75,
+        "location": 252,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240881201",
+        "confidence": 90,
+        "location": 350,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39720",
+        "confidence": 90,
+        "location": 371,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241086637 - RIGGER - SAHARA ENGINEERING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "30.09.2024",
+        "confidence": 75,
+        "location": 202,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "30.09.2024",
+        "confidence": 75,
+        "location": 202,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241086637",
+        "confidence": 90,
+        "location": 303,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-42321",
+        "confidence": 90,
+        "location": 324,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241192015 - FORKLIFT OPERATOR - STECON EELCTROMECHANICAL.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "16.11.2024",
+        "confidence": 75,
+        "location": 197,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "16.11.2024",
+        "confidence": 75,
+        "location": 197,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241192015",
+        "confidence": 90,
+        "location": 313,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-44994",
+        "confidence": 90,
+        "location": 287,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241192614 - RIGGER - AUTOMECH.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "07.11.2024",
+        "confidence": 75,
+        "location": 232,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "07.11.2024",
+        "confidence": 75,
+        "location": 232,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241192614",
+        "confidence": 90,
+        "location": 347,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-45388",
+        "confidence": 90,
+        "location": 321,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240778975 - SCAFFOLDING SUPERVISOR - DREAM SPACE BUILDING CONT. LLC.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "12.07.2024",
+        "confidence": 75,
+        "location": 222,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "12.07.2024",
+        "confidence": 75,
+        "location": 222,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240778975",
+        "confidence": 90,
+        "location": 318,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38439",
+        "confidence": 90,
+        "location": 339,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\CALIBRATION CERFICATES 2024\\C20241030922 - PRESSURE GAUGE - ROYAL GAS ABU DHABI.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240372091 - WELDER - HITECH ICAD FACTORY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "25.03.2024",
+        "confidence": 75,
+        "location": 542,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "25.03.2024",
+        "confidence": 75,
+        "location": 542,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240372091",
+        "confidence": 90,
+        "location": 639,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34625",
+        "confidence": 90,
+        "location": 660,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240780261 - SCAFFOLDING ERECTION AND DISMANTLING - CHINA ENERGY ENGINEERING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "29.07.2024",
+        "confidence": 75,
+        "location": 284,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "29.07.2024",
+        "confidence": 75,
+        "location": 284,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240780261",
+        "confidence": 90,
+        "location": 380,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39159",
+        "confidence": 90,
+        "location": 401,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202404387501 - GENERATOR - CRC VILLANOVA.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202403386027 - BOW SHACKLE - UNITED PRECAST CONCRETE UPC.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240472465 - FLAGMAN - TROJAN BANIYAS NORTH PHASE 2.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "21.03.2024",
+        "confidence": 75,
+        "location": 226,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "21.03.2024",
+        "confidence": 75,
+        "location": 226,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240472465",
+        "confidence": 90,
+        "location": 323,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35007",
+        "confidence": 90,
+        "location": 344,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202410396945 - MOBILE CRANE - DHABI CONTRACTING.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241294599 - FIRE FIGHTER - NATIONAL PROJECTS NPC I057.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "07.12.2024",
+        "confidence": 75,
+        "location": 226,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "07.12.2024",
+        "confidence": 75,
+        "location": 226,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241294599",
+        "confidence": 90,
+        "location": 341,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-46427",
+        "confidence": 90,
+        "location": 315,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240370265 - BANKSMAN - SAIH AS SIDIRAH.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "02.03.2024",
+        "confidence": 75,
+        "location": 205,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "02.03.2024",
+        "confidence": 75,
+        "location": 205,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240370265",
+        "confidence": 90,
+        "location": 302,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-33752",
+        "confidence": 90,
+        "location": 323,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202411399791 - CRAWLER EXCAVATOR - GOLDEN PEACE GENERAL TRANSPORT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202404387004 - COMPLIANCE CERTIFICATE FOR PUSH PULL - UNITED PRECAST CONCRETE UPC YAS ISLAND.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "03.10.2024",
+        "confidence": 75,
+        "location": 1891,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "April 04, 2024",
+        "confidence": 95,
+        "location": 48,
+        "version": "03"
+      }
+    ],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202408394234 - D SHACKLE - NATIONAL PROJECTS NPC BANIYAS PHASE-2.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202401383893 - TIPPER TRUCK - SUN WORLD LAND TRANSPORT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240575014 - WORK AT HEIGHT  - TROJAN AL HAYER AL AIN.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "20.05.2024",
+        "confidence": 75,
+        "location": 234,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "20.05.2024",
+        "confidence": 75,
+        "location": 234,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240575014",
+        "confidence": 90,
+        "location": 329,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-36273",
+        "confidence": 90,
+        "location": 351,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202408394336 - FALSE WORK - CHINA NEUCLEAR IND..docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202407378760 - WELDING MACHINE - SIX CO. ZNM.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202403386840 - HYDRAULIC SHEARING MACHINE - AERODYNE METAL FABRICATION.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240574278 - EXCAVATOR OPERATOR - M A KHARAFI.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "11.05.2024",
+        "confidence": 75,
+        "location": 212,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "11.05.2024",
+        "confidence": 75,
+        "location": 212,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240574278",
+        "confidence": 90,
+        "location": 307,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35907",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241088730 - SCAFFOLDING ERECTION AND DISMANTLING - CRC NIMA SITE.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "16.10.2024",
+        "confidence": 75,
+        "location": 229,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "16.10.2024",
+        "confidence": 75,
+        "location": 229,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241088730",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-43383",
+        "confidence": 90,
+        "location": 349,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202408394627 - TELEHANDLER - CAMPER GENERAL TRANSPORT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202404377984 - WELDING MACHINE - ROYAL GAS ABU DHABI.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240372077 - WELDER - HITECH ICAD FACTORY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "25.03.2024",
+        "confidence": 75,
+        "location": 541,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "25.03.2024",
+        "confidence": 75,
+        "location": 541,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240372077",
+        "confidence": 90,
+        "location": 638,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34625",
+        "confidence": 90,
+        "location": 659,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202411398912 - WEBBING SLING - GOLDEN MOON GENERAL TRANSPORT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202411379953 - SAFETY HARNESS - FABTECH INTERNATIONAL.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202404387711 - PILING RIG MACHINE - DUTCH FOUNDATION P-1958.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202405389360 - PAT TEST FOR WOOD CUTTING MACHINE - LEADERS FORT CONT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240880954 - FIRE WATCHER - ROYAL GAS DUBAI.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "08.08.2024",
+        "confidence": 75,
+        "location": 209,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "08.08.2024",
+        "confidence": 75,
+        "location": 209,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240880954",
+        "confidence": 90,
+        "location": 307,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39649",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241192858 - CRADLE OPERATOR - ACCESS INTERNATIONAL.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "26.11.2024",
+        "confidence": 75,
+        "location": 195,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "26.11.2024",
+        "confidence": 75,
+        "location": 195,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241192858",
+        "confidence": 90,
+        "location": 311,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-45575",
+        "confidence": 90,
+        "location": 285,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240985125 - RIGGER - SCECO SHAKBOUT CITY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "19.09.2024",
+        "confidence": 75,
+        "location": 206,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "19.09.2024",
+        "confidence": 75,
+        "location": 206,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240985125",
+        "confidence": 90,
+        "location": 307,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-41775",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240986130 - FLAGMAN - FIBREX NAD AL SHEBA.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "27.09.2024",
+        "confidence": 75,
+        "location": 201,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "27.09.2024",
+        "confidence": 75,
+        "location": 201,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240986130",
+        "confidence": 90,
+        "location": 302,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-42205",
+        "confidence": 90,
+        "location": 323,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240986554 - GENERAL HEALTH AND SAFETY - TAWASOL SOLUTION.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "28.09.2024",
+        "confidence": 75,
+        "location": 227,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "28.09.2024",
+        "confidence": 75,
+        "location": 227,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240986554",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-42293",
+        "confidence": 90,
+        "location": 349,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240371858 - EXCAVATOR OPERATOR - SMART LIFE.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "27.03.2024",
+        "confidence": 75,
+        "location": 206,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "27.03.2024",
+        "confidence": 75,
+        "location": 206,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240371858",
+        "confidence": 90,
+        "location": 303,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34540",
+        "confidence": 90,
+        "location": 324,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241086931 - WORK AT HEIGHT - TROJAN CITY WALK.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "01.10.2024",
+        "confidence": 75,
+        "location": 248,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "01.10.2024",
+        "confidence": 75,
+        "location": 248,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241086931",
+        "confidence": 90,
+        "location": 347,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-42473",
+        "confidence": 90,
+        "location": 368,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202401377142 - SCAFFOLDING - CRC.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202405387962 - BOW SHACKLE - QUALITY INTERNATIONAL CO. LTD.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202402385390 - MOBILE CRANE - SAQIB MAHMOOD.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240778426  - RIGGER - HI TECH I CAD FACTORY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "03.07.2024",
+        "confidence": 75,
+        "location": 235,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "03.07.2024",
+        "confidence": 75,
+        "location": 235,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240778426",
+        "confidence": 90,
+        "location": 331,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38037",
+        "confidence": 90,
+        "location": 352,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202410397424 - CRADLE - INVENTURE METAL PEARL BAY.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412400802 - PAT TEST FOR FLOOR GRINDER MACHINE - SURFACE PROFESSIONALS BUILDING MAINT.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202405389311 - CRAWLER CRANE - APCC AP2170.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202407391995 - BMU - MALT TECHNICS CREEK PALACE.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240984023 - RIGGER - RBM BUILDING CONTRACTING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "11.09.2024",
+        "confidence": 75,
+        "location": 199,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "11.09.2024",
+        "confidence": 75,
+        "location": 199,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240984023",
+        "confidence": 90,
+        "location": 300,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-41283",
+        "confidence": 90,
+        "location": 321,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202403386217 - PILING RIG MACHINE - APCC AP2168.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\CALIBRATION CERFICATES 2024\\C20240530135 - PRESSURE GAUGE - ROYAL GAS ABU DHABI.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202409395320 - STORAGE FRAME - ARABIAN PROFILE.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240167566 - BANKSMAN - M A KHARAFI.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "18.01.2024",
+        "confidence": 75,
+        "location": 200,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "18.01.2024",
+        "confidence": 75,
+        "location": 200,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240167566",
+        "confidence": 90,
+        "location": 299,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-32236",
+        "confidence": 90,
+        "location": 320,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241191520 - ELECTRICAL SAFETY - NATIONAL PROJECTS NPC I057.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "11.11.2024",
+        "confidence": 75,
+        "location": 236,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "11.11.2024",
+        "confidence": 75,
+        "location": 236,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241191520",
+        "confidence": 90,
+        "location": 351,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-44729",
+        "confidence": 90,
+        "location": 325,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240985843 - HDPE WELDER - NATIONAL PROJECTS NPC I045.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "25.09.2024",
+        "confidence": 75,
+        "location": 234,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "25.09.2024",
+        "confidence": 75,
+        "location": 234,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240985843",
+        "confidence": 90,
+        "location": 332,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-42077",
+        "confidence": 90,
+        "location": 353,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202404387010 - DEWATERING PUMP - CONCORD STARS.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240880664 - SCAFFOLDING ERECTION AND DISMANTLING - STAR SHELL SCAFFOLDING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "05.08.2024",
+        "confidence": 75,
+        "location": 230,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "05.08.2024",
+        "confidence": 75,
+        "location": 230,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240880664",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39501",
+        "confidence": 90,
+        "location": 349,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241190951 - DUMPER OPERATOR - CONCORD STARS.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "05.11.2025",
+        "confidence": 95,
+        "location": 365,
+        "version": "02"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "05.11.2025",
+        "confidence": 95,
+        "location": 365,
+        "version": "01"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241190951",
+        "confidence": 90,
+        "location": 321,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-44442",
+        "confidence": 90,
+        "location": 342,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240268297 - KERBSTONE CUTTING MACHINE OPERATOR - NATIONAL PROJECTS NPC HUDARIYAT I053.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "02.02.2024",
+        "confidence": 75,
+        "location": 264,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "02.02.2024",
+        "confidence": 75,
+        "location": 264,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240268297",
+        "confidence": 90,
+        "location": 364,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-32681",
+        "confidence": 90,
+        "location": 385,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240472860 - WHEEL LOADER OPERATOR - MOHD. SALIM.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "20.04.2024",
+        "confidence": 75,
+        "location": 222,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "20.04.2024",
+        "confidence": 75,
+        "location": 222,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240472860",
+        "confidence": 90,
+        "location": 319,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35130",
+        "confidence": 90,
+        "location": 340,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202401377259 - WHEEL LOADER - KONO CONTRACTING.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240676906 - GRINDER OPERATOR - ROYAL GAS DUBAI.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "12.06.2024",
+        "confidence": 75,
+        "location": 211,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "12.06.2024",
+        "confidence": 75,
+        "location": 211,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240676906",
+        "confidence": 90,
+        "location": 307,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-37260",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202411380121 - WELDING MACHINE - GULF TENT SHADE AND TARPAULIN.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202402384640 - CRADLE - SEA STAR ENGINEERING.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241089572 - FIRE FIGHTER - POPULAR OIL FIELD SERVICES THIRD PARTY.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "25.10.2024",
+        "confidence": 75,
+        "location": 213,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "25.10.2024",
+        "confidence": 75,
+        "location": 213,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241089572",
+        "confidence": 90,
+        "location": 312,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-43798",
+        "confidence": 90,
+        "location": 333,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240677310 - OVERHEAD CRANE OPERATOR - ABU DHABI PRECAST ICAD 1.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "19.06.2024",
+        "confidence": 75,
+        "location": 240,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "19.06.2024",
+        "confidence": 75,
+        "location": 240,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240677310",
+        "confidence": 90,
+        "location": 334,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-37545",
+        "confidence": 90,
+        "location": 355,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202406389833 - WEBBING SLING - AL MANBAA.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202405388882 - LIFTING POINTS - AL MANBAA.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240269424 - WELDER - APCC DIC YARD.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "17.02.2024",
+        "confidence": 75,
+        "location": 223,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "17.02.2024",
+        "confidence": 75,
+        "location": 223,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240269424",
+        "confidence": 90,
+        "location": 323,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-33237",
+        "confidence": 90,
+        "location": 344,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241088281 - GRAPPLE CRANE OPERATOR - BEEAH.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "12.10.2024",
+        "confidence": 75,
+        "location": 244,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "12.10.2024",
+        "confidence": 75,
+        "location": 244,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241088281",
+        "confidence": 90,
+        "location": 342,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-43068",
+        "confidence": 90,
+        "location": 363,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412401343 - BOW SHACKLE - NSCC INTERNATIONAL BLUE WATER.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412402041 - LOADING PLATFORM - CRC CITY WALK.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\CALIBRATION CERFICATES 2024\\C20240930674 - PRESSURE GAUGE - ROYAL GAS ABU DHABI.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412400863 - SPIRAL BAR BENDING MACHINE - PRIME SAAVIS TECHNICAL SERVICES.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412402417 - LOADING PLATFORM - FIBREX CREEK HARBOUR.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202401377138 - WELDING MACHINE - UNIMARINE TECHNICAL SERVICES.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241191388 - RIGGER - DARWAISH ENGINEERING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "08.11.2024",
+        "confidence": 75,
+        "location": 221,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "08.11.2024",
+        "confidence": 75,
+        "location": 221,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241191388",
+        "confidence": 90,
+        "location": 336,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-44636",
+        "confidence": 90,
+        "location": 310,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240985098 - MOBILE CRANE OPERATOR - DYNAMIC CONTRACTING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "19.09.2024",
+        "confidence": 75,
+        "location": 211,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "19.09.2024",
+        "confidence": 75,
+        "location": 211,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240985098",
+        "confidence": 90,
+        "location": 312,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-41748",
+        "confidence": 90,
+        "location": 333,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240371956 - POWER TOOLS OPERATOR - CRC VILLANOVA SOHAIL SITE.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "23.03.2024",
+        "confidence": 75,
+        "location": 210,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "23.03.2024",
+        "confidence": 75,
+        "location": 210,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240371956",
+        "confidence": 90,
+        "location": 307,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-34622",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240574437 - FLAGMAN - NATIONAL PROJECTS NPC YAS ILAND CASH.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "13.05.2024",
+        "confidence": 75,
+        "location": 230,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "13.05.2024",
+        "confidence": 75,
+        "location": 230,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240574437",
+        "confidence": 90,
+        "location": 325,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35985",
+        "confidence": 90,
+        "location": 346,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240881314 - FLAGMAN - TROJAN CITY WALK WAY PROJECT.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "10.08.2024",
+        "confidence": 75,
+        "location": 227,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "10.08.2024",
+        "confidence": 75,
+        "location": 227,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240881314",
+        "confidence": 90,
+        "location": 325,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39771",
+        "confidence": 90,
+        "location": 346,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241295643 - WORK AT HEIGHT - ACE CRANE ENGINEERING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "13.12.2024",
+        "confidence": 75,
+        "location": 196,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "13.12.2024",
+        "confidence": 75,
+        "location": 196,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241295643",
+        "confidence": 90,
+        "location": 311,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-46958",
+        "confidence": 90,
+        "location": 285,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240984817 - WORK AT HEIGHT RESCUE - TROJAN GENERAL SPORTS HOTEL.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "10.09.2024",
+        "confidence": 75,
+        "location": 247,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "10.09.2024",
+        "confidence": 75,
+        "location": 247,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240984817",
+        "confidence": 90,
+        "location": 348,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-41595",
+        "confidence": 90,
+        "location": 369,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202405388600 - BMU - DANWAY MITHUN MOSSA ABDUL RAHMAN.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240779075 - FLAGMAN - HI TECH CONCRETE AL SAAD.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "15.07.2024",
+        "confidence": 75,
+        "location": 232,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "15.07.2024",
+        "confidence": 75,
+        "location": 232,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240779075",
+        "confidence": 90,
+        "location": 328,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38520",
+        "confidence": 90,
+        "location": 349,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202412400851 - WEBBING SLING - THIRD PARTY.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240269754 - FIRST AID - TROJAN BANIYAS PHASE 1.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "23.02.2024",
+        "confidence": 75,
+        "location": 236,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "23.02.2024",
+        "confidence": 75,
+        "location": 236,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240269754",
+        "confidence": 90,
+        "location": 336,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-33446",
+        "confidence": 90,
+        "location": 357,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241088235 - WELDER - CASH ONE TECHNICAL SERVICES.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "12.10.2024",
+        "confidence": 75,
+        "location": 196,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "12.10.2024",
+        "confidence": 75,
+        "location": 196,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241088235",
+        "confidence": 90,
+        "location": 295,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-43053",
+        "confidence": 90,
+        "location": 316,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202401377135 - AIR COMPRESSOR - SKILL SAFE INSPECTION AND TRAINING SERVICES LLC.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202401383411 - CRADLE  - CRC C19.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240779598 - CONFINED SPACE SUPERVISOR - AL WAHA HYGIENE.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "20.07.2024",
+        "confidence": 75,
+        "location": 220,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "20.07.2024",
+        "confidence": 75,
+        "location": 220,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240779598",
+        "confidence": 90,
+        "location": 316,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-38810",
+        "confidence": 90,
+        "location": 337,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202410397263 - LIFTING CLUTCH - ABU DHABI PRECAST.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202409395105 - LOADING PLATFORM - ENGINEERING CONTRACTING COMPANY ECC CREEK HARBOUR.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202401383543 - PAT TEST FOR CUTTING MACHINE - UNIMARINE TECHNICAL SERVICES.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20241192653 - SCAFFOLDING ERECTION AND DISMANTLING - AL QANNATI.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "22.11.2024",
+        "confidence": 75,
+        "location": 276,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "22.11.2024",
+        "confidence": 75,
+        "location": 276,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20241192653",
+        "confidence": 90,
+        "location": 391,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-45399",
+        "confidence": 90,
+        "location": 365,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202411399758 - BMU - BRIO TECHNICAL SERVICES.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240268681 - CRAWLER CRANE OPERATOR - NSCC.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "09.02.2024",
+        "confidence": 75,
+        "location": 252,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "09.02.2024",
+        "confidence": 75,
+        "location": 252,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240268681",
+        "confidence": 90,
+        "location": 352,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-32911",
+        "confidence": 90,
+        "location": 373,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240780045 - GAS TORCH OPERATOR - HELIOPOLIS ELECTRIC.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "26.07.2024",
+        "confidence": 75,
+        "location": 224,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "26.07.2024",
+        "confidence": 75,
+        "location": 224,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240780045",
+        "confidence": 90,
+        "location": 320,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39037",
+        "confidence": 90,
+        "location": 342,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\Rubbish\\2025-06-02\\2025-06-02 18.47.54.0\\JOB LOG SHEET.xlsx",
+    "next_date_of_inspection": [
+      {
+        "text": "08.05.2025",
+        "confidence": 75,
+        "location": 3614453,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "25.11.2019",
+        "confidence": 75,
+        "location": 3522,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\ENAS CERTIIFCATES 2024\\E202405378215 - AIR COMPRESSOR - AL NISR ROADS AND BUILDING.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202408392691 - CUTTING MACHINE - CIVIL POWER GENERAL CONTRACTING.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240472887 - CUTTING AND BENDING MACHINE OPERATOR - LARSEN AND TOUBRO L&T.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "20.04.2024",
+        "confidence": 75,
+        "location": 228,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "20.04.2024",
+        "confidence": 75,
+        "location": 228,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240472887",
+        "confidence": 90,
+        "location": 325,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-35155",
+        "confidence": 90,
+        "location": 346,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202404387558 - COMPLIANCE CERTIFICATE FOR PROP JACK - ABU DHABI PRECAST.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "21.10.2024",
+        "confidence": 75,
+        "location": 1845,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "April 22, 2024",
+        "confidence": 95,
+        "location": 48,
+        "version": "03"
+      }
+    ],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\LAD CERTIFICATES 2024\\L202410397328 - BOW SHACKLE - SAHARA ENGINEERING.docx",
+    "next_date_of_inspection": [],
+    "date_of_inspection": [],
+    "certificate_number": [],
+    "job_number": []
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240268953 - CHEMICAL HANDLING - AL MASAOOD LLC.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "13.02.2024",
+        "confidence": 75,
+        "location": 256,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "13.02.2024",
+        "confidence": 75,
+        "location": 256,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240268953",
+        "confidence": 90,
+        "location": 354,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-33021",
+        "confidence": 90,
+        "location": 375,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240677859 - SCAFFOLDING SUPERVISOR - PEARL TOUCH SCAFFOLDING.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "26.06.2024",
+        "confidence": 75,
+        "location": 215,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "26.06.2024",
+        "confidence": 75,
+        "location": 215,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240677859",
+        "confidence": 90,
+        "location": 311,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-37727",
+        "confidence": 90,
+        "location": 332,
+        "version": "01"
+      }
+    ]
+  },
+  {
+    "file": "C:\\Users\\HP\\Music\\documents_processing-main\\MEGA\\OPERATOR CERTIFICATES 2024\\T20240881305 - FLAGMAN - TROJAN CITY WALK WAY PROJECT.docx",
+    "next_date_of_inspection": [
+      {
+        "text": "10.08.2024",
+        "confidence": 75,
+        "location": 222,
+        "version": "heuristic-v1"
+      }
+    ],
+    "date_of_inspection": [
+      {
+        "text": "10.08.2024",
+        "confidence": 75,
+        "location": 222,
+        "version": "heuristic-v1"
+      }
+    ],
+    "certificate_number": [
+      {
+        "text": "T20240881305",
+        "confidence": 90,
+        "location": 320,
+        "version": "01"
+      }
+    ],
+    "job_number": [
+      {
+        "text": "LAD-39771",
+        "confidence": 90,
+        "location": 341,
+        "version": "01"
+      }
+    ]
+  }
+]

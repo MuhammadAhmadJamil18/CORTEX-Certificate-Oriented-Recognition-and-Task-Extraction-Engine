@@ -1,0 +1,285 @@
+{
+	"info": {
+		"_postman_id": "updated-uuid",
+		"name": "Job Log Analysis API (Updated)",
+		"description": "Collection of endpoints for analyzing the Job Log Sheet with cache timestamps",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1. Process Job Log",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/process_job_log",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["process_job_log"]
+				},
+				"description": "Process the Excel file and cache results. Run this first!"
+			},
+			"response": [
+				{
+					"name": "Success Response",
+					"originalRequest": {
+						"method": "POST",
+						"url": {
+							"raw": "http://localhost:5000/process_job_log"
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"body": {
+						"summary": {
+							"total_rows": 100,
+							"unique_sales_person_count": 10,
+							"missing_sales_person_count": 5,
+							"sheets_processed": ["Sheet1", "Sheet2"]
+						},
+						"metadata": {
+							"processed_at": "2024-03-20T10:00:00",
+							"source_file": "MEGA/JOB LOG SHEET.xlsx"
+						}
+					}
+				}
+			]
+		},
+		{
+			"name": "2. Get Sales Person by Job Number",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"job_number\": \"J001\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5000/salesperson_by_job",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["salesperson_by_job"]
+				},
+				"description": "Get the sales person for a specific job number"
+			},
+			"response": [
+				{
+					"name": "Success Response",
+					"originalRequest": {
+						"method": "POST",
+						"url": {
+							"raw": "http://localhost:5000/salesperson_by_job"
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"body": {
+						"sales_person": "John Doe",
+						"cache_timestamp": "2024-03-20T10:00:00"
+					}
+				}
+			]
+		},
+		{
+			"name": "3. Get Unique Sales Persons",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/unique_salespersons",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["unique_salespersons"]
+				},
+				"description": "Get a list of all unique sales persons"
+			},
+			"response": [
+				{
+					"name": "Success Response",
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"body": {
+						"unique_sales_persons": ["John Doe", "Jane Smith"],
+						"total_count": 2,
+						"cache_timestamp": "2024-03-20T10:00:00"
+					}
+				}
+			]
+		},
+		{
+			"name": "4. Get Jobs by Sales Person",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/jobs_by_salesperson",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["jobs_by_salesperson"]
+				},
+				"description": "Get all job numbers mapped to each sales person"
+			},
+			"response": [
+				{
+					"name": "Success Response",
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"body": {
+						"jobs_by_sales_person": {
+							"John Doe": ["J001", "J003"],
+							"Jane Smith": ["J002"]
+						},
+						"total_salespersons": 2,
+						"cache_timestamp": "2024-03-20T10:00:00"
+					}
+				}
+			]
+		},
+		{
+			"name": "5. Get Job Log Summary",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/job_log_summary",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["job_log_summary"]
+				},
+				"description": "Get summary statistics of the job log data"
+			},
+			"response": [
+				{
+					"name": "Success Response",
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"body": {
+						"summary": {
+							"total_rows": 100,
+							"unique_sales_person_count": 10,
+							"missing_sales_person_count": 5,
+							"sheets_processed": ["Sheet1", "Sheet2"]
+						},
+						"cache_timestamp": "2024-03-20T10:00:00"
+					}
+				}
+			]
+		},
+		{
+			"name": "6. Health Check",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/health",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["health"]
+				},
+				"description": "Check API and cache health status"
+			},
+			"response": [
+				{
+					"name": "Success Response",
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"body": {
+						"status": "healthy",
+						"cache_exists": true,
+						"cache_valid": true,
+						"source_file_exists": true,
+						"last_processed": "2024-03-20T10:00:00"
+					}
+				}
+			]
+		},
+		{
+			"name": "7. Get Metrics",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/metrics",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["metrics"]
+				},
+				"description": "Get API metrics and cache statistics"
+			},
+			"response": [
+				{
+					"name": "Success Response",
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"body": {
+						"cache_size_bytes": 1024,
+						"total_records": 100,
+						"unique_salespersons": 10,
+						"missing_data_percentage": 5.0,
+						"last_processed": "2024-03-20T10:00:00"
+					}
+				}
+			]
+		},
+		{
+			"name": "8. Batch Salesperson Lookup",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"job_numbers\": [\"J001\", \"J002\", \"J003\"]\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5000/batch_salesperson_lookup",
+					"protocol": "http",
+					"host": ["localhost"],
+					"port": "5000",
+					"path": ["batch_salesperson_lookup"]
+				},
+				"description": "Batch process multiple job numbers in a single request"
+			},
+			"response": [
+				{
+					"name": "Success Response",
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"body": {
+						"results": {
+							"J001": "John Doe",
+							"J002": "Jane Smith",
+							"J003": "John Doe"
+						},
+						"total_processed": 3,
+						"cache_timestamp": "2024-03-20T10:00:00"
+					}
+				}
+			]
+		}
+	]
+} 

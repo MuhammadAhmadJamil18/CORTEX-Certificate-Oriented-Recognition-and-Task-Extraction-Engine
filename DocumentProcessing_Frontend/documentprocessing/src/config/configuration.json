@@ -1,0 +1,41 @@
+{
+    "documentprocessing":{
+        "secret_key": "documentprocessing",
+        "prod_urls":{
+           "frontend": "http://217.154.53.135:81",
+            "backend": "http://217.154.53.135:9090"
+        },
+        "urls":{
+           "frontend": "http://localhost:3000",
+            "backend": "http://localhost:8080"
+        },
+        "routes":{
+            "PORTAL": {
+                "DASHBOARD": "/Portal/Dashboard",
+                "PROFILE": "/Portal/Profile",
+                "SETTINGS": "/Portal/Settings",
+                "NOTIFICATION": "/Portal/Notifications",
+                "MYNOTIFICATIONS": "/Portal/MyNotifications",
+                "PROCESS": "/Portal/Process",
+                "REPORTS": "/Portal/Reports",
+                "USERS": "/Portal/Users"
+            },
+            "USER": {
+                "LOGIN": "/Login",
+                "FORGETPASSWORD": "/ForgetPassword",
+                "RESETPASSWORD": "/ResetPassword",
+                "LOGOUT": "/Logout"
+            }
+        },
+        "keys":{
+            "encryptionKey": "documentprocessing"
+        },
+        "images":{
+            "pageLogo": "/images/logos/pbtPay.png"
+        }
+    }
+}
+
+
+
+

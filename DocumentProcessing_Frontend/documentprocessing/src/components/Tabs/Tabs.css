@@ -1,0 +1,32 @@
+.tab-buttons button {
+    height: 40px;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    font-size: 14px;
+    border: 0px;
+ }
+ 
+ .tab-buttons .active {
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 3px;
+    border-radius: 10px;
+    border: 1px solid black;
+ }
+ 
+ .tab-content {
+    margin-top: 20px;
+ }
+ 
+
+ .tab-container{
+   background-color: #007bff;
+   border-radius: 10px;
+   border: 2px solid black;
+   height: 50px;
+ }

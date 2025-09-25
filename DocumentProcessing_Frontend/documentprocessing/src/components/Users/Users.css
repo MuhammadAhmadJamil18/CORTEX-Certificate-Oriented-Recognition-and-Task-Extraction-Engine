@@ -1,0 +1,64 @@
+.notify-tab {
+    max-width: 100%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+ }
+ 
+ .form-group {
+    margin-bottom: 15px;
+ }
+ 
+ .form-group label {
+    display: block;
+    margin-bottom: 5px;
+ }
+ 
+ .form-group input,
+ .form-group select,
+ .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+ }
+ 
+ .notification-fields {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 20px;
+ }
+ 
+ .notification-fields .form-group {
+    flex: 1;
+    min-width: 150px; /* Ensures a minimum width for each dropdown */
+    margin-right: 10px; /* Space between dropdowns */
+ }
+ 
+ .notification-fields .form-group:last-child {
+    margin-right: 0; /* Remove margin from the last item */
+ }
+ 
+ .submit-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+ }
+
+ .submit-container {
+    display: flex;                  /* Use flexbox for alignment */
+    justify-content: flex-end;      /* Align button to the right */
+    margin-top: 10px;              /* Optional: margin for spacing */
+ }
+ 
+ .submit-button:hover {
+    background-color: #0056b3;
+ }
+ 

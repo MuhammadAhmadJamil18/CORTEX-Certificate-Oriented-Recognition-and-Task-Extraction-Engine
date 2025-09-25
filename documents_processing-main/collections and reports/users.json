@@ -1,0 +1,128 @@
+[
+  {
+    "userName": "ALI - ENGINEER",
+    "userEmail": "aliengineer@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "ARCHANA",
+    "userEmail": "archana@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "HALEETHA",
+    "userEmail": "haleetha@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "IJAZ AHMAD",
+    "userEmail": "ijazahmad@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "ISHAN - ENGINEER",
+    "userEmail": "ishanengineer@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "ISHAQ",
+    "userEmail": "ishaq@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "M ZAHID",
+    "userEmail": "mzahid@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "MAMOON",
+    "userEmail": "mamoon@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "MR.MEHAR EJAZ",
+    "userEmail": "mrmeharejaz@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "MS.IQRA JAMIL",
+    "userEmail": "msiqrajamil@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "RAHID - ENGINEER",
+    "userEmail": "rahidengineer@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "RAMEESHA",
+    "userEmail": "rameesha@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "SALIK ENGINEER",
+    "userEmail": "salikengineer@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "SALMAA",
+    "userEmail": "salmaa@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "SHAHBAZ HASSAN",
+    "userEmail": "shahbazhassan@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "SUDEESHA",
+    "userEmail": "sudeesha@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "YASAR",
+    "userEmail": "yasar@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  },
+  {
+    "userName": "ZEESHAN JAVED",
+    "userEmail": "zeeshanjaved@qualitydxb.com",
+    "userPassword": "12345",
+    "confirmUserPassword": "12345",
+    "userRole": 2
+  }
+]

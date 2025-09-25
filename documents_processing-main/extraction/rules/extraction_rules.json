@@ -1,0 +1,277 @@
+{
+    "client_name": {
+        "stop_on_find": false,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)This is to certify that\\s+(?:Mr\\.|Mrs\\.|Ms\\.|Dr\\.|)?\\s*(?P<client_name>[A-Z][A-Z\\s\\.]+?)\\s*(?:\\r?\\n|$)",
+                "weight": 90
+            },
+            {
+                "gen_id": "02",
+                "rule": "(?i)Name & Address Of Owner Of Equipment\\s*(?P<client_name>.*?)\\s*Location:",
+                "weight": 90
+            },
+            {
+                "gen_id": "03",
+                "rule": "(?i)Customer\\:?\\s*(?P<client_name>[A-Z][A-Z0-9\\s\\&\\.,-]+?)\\s*(?:\\r?\\n|Address)",
+                "weight": 90
+            },
+            {
+                "gen_id": "04",
+                "rule": "(?i)M/S:\\s*(?P<client_name>[A-Z][A-Z0-9\\s\\&\\.,-]+?)\\s*(?:\\r?\\n|Address)",
+                "weight": 90
+            }
+        ]
+    },
+    "next_date_of_inspection": {
+        "stop_on_find": false,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)(?:Due Date|Next Inspection|Valid Until|Expiry Date|Next Test Date|Due|Certificate Valid Until|Inspection Due|Next Expiry)[\\s:]*(?P<next_date_of_inspection>\\d{1,2}[./-]\\d{1,2}[./-]\\d{2,4})",
+                "weight": 95
+            },
+            {
+                "gen_id": "02",
+                "rule": "(?i)(?:Due Date|Next Inspection|Valid Until|Expiry Date|Next Test Date|Due|Certificate Valid Until|Inspection Due|Next Expiry)[\\s:]*(?P<next_date_of_inspection>(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Ocotober|Nomber|Septembe|Decembe|Januray|Februay)[a-z]*\\s+\\d{1,2},?\\s+\\d{4})",
+                "weight": 95
+            },
+            {
+                "gen_id": "03",
+                "rule": "(?i)Date of Expiry:[\\s]*?(?P<next_date_of_inspection>(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Ocotober|Nomber|Septembe|Decembe|Januray|Februay)[a-z]*[ ]+\\d{1,2},[ ]+\\d{4})",
+                "weight": 95
+            },
+            {
+                "gen_id": "04",
+                "rule": "(?i)(?:Due Date|Next Inspection|Valid Until|Expiry Date|Next Test Date|Due|Certificate Valid Until|Inspection Due|Next Expiry)[\\s:]*(?P<next_date_of_inspection>[A-Za-z]+\\s+\\d{1,2},?\\s+\\d{4})",
+                "weight": 90
+            },
+            {
+                "gen_id": "05",
+                "rule": "(?i)Next Date of Inspection[\\s:]*(?P<next_date_of_inspection>[A-Za-z]+\\s+\\d{1,2},?\\s+\\d{4})",
+                "weight": 95
+            }
+        ]
+    },
+    "job_number": {
+        "stop_on_find": false,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)Job\\s*No\\.?\\s*(?P<job_number>LAD-\\d+)",
+                "weight": 95
+            },
+            {
+                "gen_id": "02",
+                "rule": "(?i)Job\\s*Number\\s*[:,-]?\\s*(?P<job_number>LAD-\\d+)",
+                "weight": 90
+            },
+            {
+                "gen_id": "03",
+                "rule": "(?i)Job\\s*(?:No|Number)\\.?\\s*[:,-]?\\s*(?P<job_number>[A-Z0-9-]+)",
+                "weight": 85
+            },
+            {
+                "gen_id": "04",
+                "rule": "(?i)Job No:\\s*(?P<job_number>[A-Z0-9-]+)",
+                "weight": 90
+            },
+            {
+                "gen_id": "05",
+                "rule": "(?i)Job Number:-\\s*(?P<job_number>[A-Z0-9-]+)",
+                "weight": 90
+            },
+            {
+                "gen_id": "06",
+                "rule": "(?i)Job No\\.?\\s*(?P<job_number>LAD-\\d+)",
+                "weight": 90
+            },
+            {
+                "gen_id": "07",
+                "rule": "(?i)Job Order Number\\s*(?P<job_number>LAD-\\s*\\d+)",
+                "weight": 90
+            }
+        ]
+    },
+    "certificate_number": {
+        "stop_on_find": true,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)Certificate\\s*(?:No\\.?|Number)\\s*[-:]?\\s*(?P<certificate_number>[CLET]\\d{10,12})",
+                "weight": 95
+            },
+            {
+                "gen_id": "02",
+                "rule": "(?i)Certificate\\s*(?:No\\.?|Number)\\s*[-:]?\\s*[\\r\\n]+\\s*(?P<certificate_number>[CLET]\\d{10,12})",
+                "weight": 95
+            },
+            {
+                "gen_id": "03",
+                "rule": "(?i)Certificate\\s*Number:[-]\\s*(?P<certificate_number>[CLET]\\d{11})",
+                "weight": 90
+            },
+            {
+                "gen_id": "04",
+                "rule": "(?i)(?:CERTIFICATE|Certificate)\\s*(?:NO|No|Number)\\.?\\s*[-:]?\\s*(?P<certificate_number>[CLET]\\d{10,11})",
+                "weight": 85
+            },
+            {
+                "gen_id": "05",
+                "rule": "(?i)CERTIFICATE No:\\s*(?P<certificate_number>[A-Z0-9-]+)",
+                "weight": 90
+            },
+            {
+                "gen_id": "06",
+                "rule": "(?i)Certificate Number:-[\\s\\n]*(?P<certificate_number>[A-Z0-9-]+)",
+                "weight": 90
+            },
+            {
+                "gen_id": "07",
+                "rule": "(?i)Certificate Number:[\\s\\n]*(?P<certificate_number>[A-Z0-9-]+)",
+                "weight": 90
+            },
+            {
+                "gen_id": "08",
+                "rule": "(?i)Certificate No\\.?\\s*(?P<certificate_number>C\\d{10})",
+                "weight": 90
+            },
+            {
+                "gen_id": "09",
+                "rule": "(?i)Certificate No\\.?:\\s*(?P<certificate_number>C\\d{10})",
+                "weight": 90
+            }
+        ]
+    },
+    "course_name": {
+        "stop_on_find": true,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)course as\\s*(?P<course_name>[A-Z\\s]+?)\\s*(?:Conducted by)",
+                "weight": 90
+            },
+            {
+                "gen_id": "02",
+                "rule": "(?i)(?:Date of Inspection|Inspection Date|Issue Date|Date of Issue|Issue|Date)[\\s:]*(?P<date_of_inspection>(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\\s+\\d{1,2},?\\s+\\d{4})",
+                "weight": 95
+            },
+            {
+                "gen_id": "03",
+                "rule": "(?i)START ON THIS\\s+(?P<date_of_inspection>(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\\s+\\d{1,2},?\\s+\\d{4})",
+                "weight": 90
+            }
+        ]
+    },
+    "company_name": {
+        "stop_on_find": false,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)Employed of:\\s*(?P<company_name>[A-Z0-9\\s\\.]+)",
+                "weight": 90
+            },
+            {
+                "gen_id": "02",
+                "rule": "(?i)Conducted by\\s*(?P<company_name>[A-Z\\s\\.]+?)\\s*START",
+                "weight": 80
+            }
+        ]
+    },
+    "course_start_date": {
+        "stop_on_find": true,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)START ON THIS\\s+(?P<course_start_date>[A-Za-z]+\\s+\\d{1,2},?\\s+\\d{4})",
+                "weight": 90
+            }
+        ]
+    },
+    "course_validity_duration": {
+        "stop_on_find": true,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)THIS CERTIFICATE IS VALID FOR\\s+(?P<course_validity_duration>[^F]+)\\s+FROM DATE OF ISSUE",
+                "weight": 90
+            }
+        ]
+    },
+    "company_id": {
+        "stop_on_find": true,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)Company ID No:\\s*(?P<company_id>[A-Z0-9-]+)",
+                "weight": 90
+            }
+        ]
+    },
+    "emirates_id": {
+        "stop_on_find": true,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)Emirates ID No:\\s*(?P<emirates_id>[A-Z0-9-]+)",
+                "weight": 90
+            }
+        ]
+    },
+    "type_of_inspection": {
+        "stop_on_find": true,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)Type Of Inspection\\s*(?P<type_of_inspection>PERIODIC|ANNUAL|INITIAL)",
+                "weight": 90
+            }
+        ]
+    },
+    "inspection_description": {
+        "stop_on_find": true,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)Equipment Description\\s*(?P<inspection_description>.*?)\\s*Make,",
+                "weight": 90
+            },
+            {
+                "gen_id": "02",
+                "rule": "(?i)Description\\s*(?P<inspection_description>.*?)\\s*,",
+                "weight": 90
+            }
+        ]
+    },
+    "date_of_inspection": {
+        "stop_on_find": true,
+        "rules": [
+            {
+                "gen_id": "01",
+                "rule": "(?i)(?:Date of Inspection|Inspection Date|Issue Date|Date of Issue|Issue|Date)[\\s:]*(?P<date_of_inspection>\\d{1,2}[./-]\\d{1,2}[./-]\\d{2,4})",
+                "weight": 95
+            },
+            {
+                "gen_id": "02",
+                "rule": "(?i)(?:Date of Inspection|Inspection Date|Issue Date|Date of Issue|Issue|Date)[\\s:]*(?P<date_of_inspection>(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Ocotober|Nomber|Septembe|Decembe|Januray|Februay)[a-z]*\\s+\\d{1,2},?\\s+\\d{4})",
+                "weight": 95
+            },
+            {
+                "gen_id": "03",
+                "rule": "(?i)START ON THIS\\s+(?P<date_of_inspection>(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Ocotober|Nomber|Septembe|Decembe|Januray|Februay)[a-z]*\\s+\\d{1,2},?\\s+\\d{4})",
+                "weight": 90
+            },
+            {
+                "gen_id": "04",
+                "rule": "(?i)(?<=Date of Inspection[\\t ]*)(?P<date_of_inspection>\\d{1,2}[./-]\\d{1,2}[./-]\\d{2,4})",
+                "weight": 85
+            },
+            {
+                "gen_id": "05",
+                "rule": "(?i)(?:Date of Inspection|Inspection Date|Issue Date|Date of Issue|Issue|Date)[\\s:]*(?P<date_of_inspection>[A-Za-z]+\\s+\\d{1,2},?\\s+\\d{4})",
+                "weight": 90
+            }
+        ]
+    }
+}

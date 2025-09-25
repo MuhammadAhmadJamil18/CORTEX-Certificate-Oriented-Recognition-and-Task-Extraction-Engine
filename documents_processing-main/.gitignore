@@ -1,0 +1,9 @@
+.venv
+__pycache__
+.dist
+qualitydxb
+downloads
+MEGA
+JOB_LOG
+*.docx
+data.json
